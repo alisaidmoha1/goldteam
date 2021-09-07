@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+}
+
+h2{
+    color: crimson;
+}
+
+h3{
+    color: darkmagenta;
+    display: inline;
+    border-style: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+}
