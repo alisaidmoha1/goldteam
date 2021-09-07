@@ -1,7 +1,28 @@
 .picture {
+
     border-radius: 50%;
 }
 
 h1 {
     color: blue;
 }
+
+    vertical-align: middle;
+    width: 70%;
+    height: 70%;
+    border-radius: 10%;
+  }
+  
+  .van {
+        width: 320px;
+        padding: 10px;
+        border: 5px solid gray;
+        margin: 0;
+      }
+
+h1 {
+
+    color: red;
+}
+  
+
