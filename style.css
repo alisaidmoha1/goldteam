@@ -1,4 +1,12 @@
 .picture {
+
+    border-radius: 50%;
+}
+
+h1 {
+    color: blue;
+}
+
     vertical-align: middle;
     width: 70%;
     height: 70%;
@@ -17,3 +25,4 @@ h1 {
     color: red;
 }
   
+
